@@ -41,3 +41,4 @@ C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.pdb
 C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.genruntimeconfig.cache
 C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\ref\CashFlow.Api.dll
 C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.sourcelink.json
+C:\Rocketseat\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\FluentValidation.dll
