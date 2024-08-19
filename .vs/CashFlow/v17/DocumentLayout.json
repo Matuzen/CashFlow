@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Rocketseat\\CashFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55BE159A-A801-4921-A551-4261C852022E}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\rocketseat\\cashflow\\src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BE159A-A801-4921-A551-4261C852022E}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDB2A876-D1B9-470C-929A-62679E9FC861}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|c:\\rocketseat\\cashflow\\src\\cashflow.communication\\responses\\responseerrorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDB2A876-D1B9-470C-929A-62679E9FC861}|src\\CashFlow.Communication\\CashFlow.Communication.csproj|solutionrelative:src\\cashflow.communication\\responses\\responseerrorjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96FDF39-B703-4A9C-B1F6-01F1C6ECE00A}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\rocketseat\\cashflow\\src\\cashflow.exception\\exceptionbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96FDF39-B703-4A9C-B1F6-01F1C6ECE00A}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\exceptionbase\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96FDF39-B703-4A9C-B1F6-01F1C6ECE00A}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\rocketseat\\cashflow\\src\\cashflow.exception\\exceptionbase\\cashflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96FDF39-B703-4A9C-B1F6-01F1C6ECE00A}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\exceptionbase\\cashflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC04B52-5E7B-4E3F-92B4-DEDA84A11EC7}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\rocketseat\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC04B52-5E7B-4E3F-92B4-DEDA84A11EC7}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpenseusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
+              "ToolTip": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "src\\CashFlow.Api\\Controllers\\ExpensesController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:48:48.648Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseErrorJson.cs",
+              "DocumentMoniker": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Communication\\Responses\\ResponseErrorJson.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Communication\\Responses\\ResponseErrorJson.cs",
+              "ToolTip": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Communication\\Responses\\ResponseErrorJson.cs",
+              "RelativeToolTip": "src\\CashFlow.Communication\\Responses\\ResponseErrorJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T22:03:31.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorOnValidationException.cs",
+              "DocumentMoniker": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Exception\\ExceptionBase\\ErrorOnValidationException.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ExceptionBase\\ErrorOnValidationException.cs",
+              "ToolTip": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Exception\\ExceptionBase\\ErrorOnValidationException.cs",
+              "RelativeToolTip": "src\\CashFlow.Exception\\ExceptionBase\\ErrorOnValidationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:43:12.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashFlowException.cs",
+              "DocumentMoniker": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Exception\\ExceptionBase\\CashFlowException.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ExceptionBase\\CashFlowException.cs",
+              "ToolTip": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Exception\\ExceptionBase\\CashFlowException.cs",
+              "RelativeToolTip": "src\\CashFlow.Exception\\ExceptionBase\\CashFlowException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T21:39:43.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterExpenseUseCase.cs",
+              "DocumentMoniker": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ToolTip": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseUseCase.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAhwBgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:50:37.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

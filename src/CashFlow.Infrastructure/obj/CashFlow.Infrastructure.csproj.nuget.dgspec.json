@@ -10,23 +10,19 @@
         "projectUniqueName": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
         "projectName": "CashFlow.Infrastructure",
         "projectPath": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\matheus.alexandre\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\mazen\\.nuget\\packages\\",
         "outputPath": "C:\\Rocketseat\\CashFlow\\src\\CashFlow.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\matheus.alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Users\\mazen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -74,23 +75,19 @@
         "projectUniqueName": "C:\\Rocketseat\\CashFlow\\src\\CashFlw.Domain\\CashFlow.Domain.csproj",
         "projectName": "CashFlow.Domain",
         "projectPath": "C:\\Rocketseat\\CashFlow\\src\\CashFlw.Domain\\CashFlow.Domain.csproj",
-        "packagesPath": "C:\\Users\\matheus.alexandre\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\mazen\\.nuget\\packages\\",
         "outputPath": "C:\\Rocketseat\\CashFlow\\src\\CashFlw.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\matheus.alexandre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+          "C:\\Users\\mazen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -103,6 +100,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -124,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.108/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

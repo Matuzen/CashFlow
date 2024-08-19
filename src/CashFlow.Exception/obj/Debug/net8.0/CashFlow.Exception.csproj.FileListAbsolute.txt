@@ -9,3 +9,4 @@ C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exceptio
 C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Exception.dll
 C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
 C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll
+C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.sourcelink.json
