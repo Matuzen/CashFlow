@@ -34,9 +34,11 @@ C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\staticwebassets\msbuild
 C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CashFlow.Api.props
 C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\scopedcss\bundle\CashFlow.Api.styles.css
-C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.csproj.CopyComplete
 C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.dll
 C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\refint\CashFlow.Api.dll
 C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.pdb
 C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.genruntimeconfig.cache
 C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\ref\CashFlow.Api.dll
+C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.Api.sourcelink.json
+C:\Rocketseat\CashFlow\src\CashFlow.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Rocketseat\CashFlow\src\CashFlow.Api\obj\Debug\net8.0\CashFlow.98401D01.Up2Date
