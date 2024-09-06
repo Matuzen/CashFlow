@@ -10,3 +10,8 @@ C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.E
 C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
 C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll
 C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.sourcelink.json
+C:\Rocketseat\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessage.resources
+C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessage.pt-BR.resources
+C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.GenerateResource.cache
+C:\Rocketseat\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll

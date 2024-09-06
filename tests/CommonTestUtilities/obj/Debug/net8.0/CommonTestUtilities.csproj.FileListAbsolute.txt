@@ -1,0 +1,16 @@
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.deps.json
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.dll
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.pdb
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.AssemblyReference.cache
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.AssemblyInfoInputs.cache
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.AssemblyInfo.cs
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.CoreCompileInputs.cache
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.sourcelink.json
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.CopyComplete
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.dll
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\refint\CommonTestUtilities.dll
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.pdb
+C:\Rocketseat\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\ref\CommonTestUtilities.dll

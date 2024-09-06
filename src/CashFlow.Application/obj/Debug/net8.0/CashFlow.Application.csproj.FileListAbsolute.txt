@@ -17,4 +17,5 @@ C:\Rocketseat\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\refint\CashFlow
 C:\Rocketseat\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\CashFlow.Application.pdb
 C:\Rocketseat\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\ref\CashFlow.Application.dll
 C:\Rocketseat\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\CashFlow.Application.sourcelink.json
-C:\Rocketseat\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\CashFlow.7372E909.Up2Date
+C:\Rocketseat\CashFlow\src\CashFlow.Application\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Rocketseat\CashFlow\src\CashFlow.Application\obj\Debug\net8.0\CashFlow.Application.csproj.CopyComplete
